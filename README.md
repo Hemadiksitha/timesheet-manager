@@ -39,7 +39,7 @@ A simple and efficient timesheet management application for tracking employee wo
    git clone https://github.com/Hemadiksitha/timesheet-manager.git
 
 2. Navigate to the project directory
-       ```bash
+    ```bash
     cd timesheet-manager
 
 3. Install and run the backend
