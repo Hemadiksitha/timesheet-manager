@@ -39,19 +39,24 @@ A simple and efficient timesheet management application for tracking employee wo
    git clone https://github.com/Hemadiksitha/timesheet-manager.git
 
 2. Navigate to the project directory
-cd timesheet-manager
+       ```bash
+    cd timesheet-manager
 
 3. Install and run the backend
-cd backend
-npm install
-node index.js
+     ```bash
+
+    cd backend
+    npm install
+    node index.js
 
 The backend server will start (default: usually on http://localhost:5000).
 
 4. Open a new terminal (or new tab) → install and run the frontend
-cd frontend
-npm install
-npm start
+   ```bash
+
+    cd frontend
+    npm install
+    npm start
 
 The app should now be running at http://localhost:3000. 
 
