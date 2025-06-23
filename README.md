@@ -60,28 +60,28 @@ The backend server will start (default: usually on http://localhost:5000).
 
 The app should now be running at http://localhost:3000. 
 
-🚀 Usage
+## 🚀 Usage
   - Make sure both servers are running:
         Backend: http://localhost:5000
         Frontend: http://localhost:3000
   - Open your browser and go to http://localhost:3000
   - Use the app to add, edit, and export timesheet entries.
 
-🛠 Technologies Used
-Frontend: React.js
-Backend: Node.js + Express
-Database: MongoDB
-Styling: CSS
+## 🛠 Technologies Used
+    Frontend: React.js
+    Backend: Node.js + Express
+    Database: MongoDB
+    Styling: CSS
 
 Version Control: Git & GitHub
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome!
 Please fork this repository and submit a pull request for any enhancements or bug fixes.
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
-📬 Contact
+## 📬 Contact
 For questions or suggestions, feel free to reach out:
 GitHub: Hemadiksitha
