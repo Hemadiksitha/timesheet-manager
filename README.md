@@ -68,7 +68,7 @@ The app should now be running at http://localhost:3000.
   - Use the app to add, edit, and export timesheet entries.
 
 ## 🛠 Technologies Used
-    Frontend: React.js
+    Frontend: React.js + Bootstrap
     Backend: Node.js + Express
     Database: MongoDB
     Styling: CSS
