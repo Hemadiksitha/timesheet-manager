@@ -1,0 +1,49 @@
+.new-timesheet-entry-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.new-timesheet-entry-container h2 {
+  text-align: center;
+}
+
+.new-timesheet-entry-container form {
+  display: flex;
+  flex-direction: column;
+}
+
+.new-timesheet-entry-container form div {
+  margin-bottom: 15px;
+}
+
+.new-timesheet-entry-container form label {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.new-timesheet-entry-container form input,
+.new-timesheet-entry-container form select,
+.new-timesheet-entry-container form textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.new-timesheet-entry-container form button {
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.new-timesheet-entry-container form button:hover {
+  background-color: #0056b3;
+}
